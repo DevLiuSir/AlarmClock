@@ -7,8 +7,8 @@
 
 ---
 ![language](https://img.shields.io/badge/language-swift-orange.svg)
-[![Swift version](https://img.shields.io/badge/swift-4.2+-blue.svg?style=flat)](https://developer.apple.com/swift/)
-![xcode version](https://img.shields.io/badge/xcode-10+-red.svg)
+[![Swift version](https://img.shields.io/badge/swift-5.1+-blue.svg?style=flat)](https://developer.apple.com/swift/)
+![xcode version](https://img.shields.io/badge/xcode-11.2+-red.svg)
 ![build](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
 ![platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)
 ![https://github.com/ChinaHackers/AlarmClock/blob/master/LICENSE](https://img.shields.io/github/license/ChinaHackers/AlarmClock.svg)
